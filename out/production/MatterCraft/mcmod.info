@@ -1,0 +1,22 @@
+[
+   {
+      "modid":"MatterCraft",
+      "name":"Matter Craft",
+      "description":"A mod add matter, specific energy, items and block transformation and etc.",
+      "version":"1.0",
+      "mcversion":"1.7.10",
+      "url":"Vk.com/PresdentOfDota",
+      "updateUrl":"",
+      "authorList":[
+         "PresdentOfSky"
+      ],
+      "credits":"pahimar",
+      "logoFile":"",
+      "screenshots":[
+
+      ],
+      "parent":"",
+      "dependencies":[
+      ]
+   }
+]
